@@ -17,3 +17,6 @@ For the subset of experiments we chose to examine, we were able to reproduce the
 ![DenseNet121_plots](/figures/DenseNet121_plots.jpg)
 ![ResNet50_plots](/figures/ResNet50_plots.jpg)
 ![Accuracy_summary](/figures/Average_Accuracy_Summary.jpg)
+
+## Reference
+POLAT, Ö., POLAT, A.,ANDEKICI, T. Automatic classification of volcanic rocks from thin section images using transfer learning networks. Neural Computing and Applications(Mar. 2021).
